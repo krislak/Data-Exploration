@@ -1,2 +1,2 @@
 # Data-Exploration
-Data Exploration using Python and R
+A beginner's perspective into EDA using Python and R 
