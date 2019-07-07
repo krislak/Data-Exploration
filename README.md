@@ -1,5 +1,5 @@
-### Project: Data-Exploration
-### A beginner's perspective into EDA using Python and R 
+# Project: Data-Exploration
+## A beginner's perspective into EDA using Python and R 
 ### Author: Lakshmi Krishna
 ### Created: July 2019
 
